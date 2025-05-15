@@ -1,0 +1,24 @@
+{
+  "name": "random-log-messages",
+  "version": "1.0.0",
+  "description": "Un simple paquete de npm para mostrar mensajes aleatorios en la consola.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCaroDev/random-log-messages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCaroDev/random-log-messages/issues"
+  },
+  "homepage": "https://github.com/JuanCaroDev/random-log-messages#readme",
+  "bin": {
+    "random-log-messages": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
