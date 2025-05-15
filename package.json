@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/JuanCaroDev/random-log-messages#readme",
   "bin": {
-    "random-log-messages": "./bin/global.js"
+    "random-log-messages": "bin/global.js"
   },
   "preferGlobal": true
 }
